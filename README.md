@@ -1,5 +1,5 @@
 # Shaggy-PSO
-Particle swarm optimization
+Particle swarm optimization\n
 Required:
 python3
 pygame
